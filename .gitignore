@@ -1,0 +1,7 @@
+echo '__pycache__/
+*.pyc
+*.db
+*.log
+*.sqlite3
+venv/
+.env' > .gitignoreetl_data.db
