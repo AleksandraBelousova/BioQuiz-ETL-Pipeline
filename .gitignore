@@ -5,3 +5,4 @@ echo '__pycache__/
 *.sqlite3
 venv/
 .env' > .gitignoreetl_data.db
+etl_data.db
